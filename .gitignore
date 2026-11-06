@@ -1,0 +1,13 @@
+# Build çıktıları
+/target/
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Geçici dosyalar
+*.log
